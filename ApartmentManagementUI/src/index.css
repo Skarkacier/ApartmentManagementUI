@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: black;
+}
+
+h2 {
+  color: #333;
+}
+
+.drawer {
+  width: 250px;
+  background-color: #e0e0e0;
+}
+
+.drawer .MuiListItem-root {
+  display: flex;
+  justify-content: center;
+  color: black;
+}
